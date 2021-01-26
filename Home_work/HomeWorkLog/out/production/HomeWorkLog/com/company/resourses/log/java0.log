@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-26T21:58:07</date>
+  <millis>1611691087730</millis>
+  <sequence>0</sequence>
+  <logger>com.company.Main</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сгенерированое число: 3.2078435112628503</message>
+</record>
+</log>
